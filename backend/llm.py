@@ -14,7 +14,7 @@ from langchain.schema import Document
 logging.basicConfig(level=logging.DEBUG)
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyBpKebZJc1PfTTWgVMcu1Lmk3k4n0shirw") 
+
 
 # Joke categories
 VALID_CATEGORIES = {
